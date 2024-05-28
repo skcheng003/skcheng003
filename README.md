@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+---
+
+- 🔭 I’m currently working on webook and glox.
+- 🌱 Spending the rest of my time learning backend developing and distributed system.
+- 😎 Enjoy coding in Go.
+
 <!--
 **skcheng003/skcheng003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
